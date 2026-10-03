@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c56511bb57.gdbhc.cn/sitemap.xml
